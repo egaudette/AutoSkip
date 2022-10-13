@@ -6,6 +6,7 @@
 // @author       egaudette
 // @source       https://github.com/egaudette/AutoSkip.git
 // @match        *://www.youtube.com/*
+// @exclude      *://www.youtube.com/shorts/*
 // @icon         https://www.google.com/s2/favicons?domain=youtube.com
 // @grant        none
 // ==/UserScript==
